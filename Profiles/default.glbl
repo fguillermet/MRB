@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://testing.miredbus.com.ar:9191/miredbus/'</initValue>
+      <name>Server</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'fguillermet@gmail.com'</initValue>
+      <name>Mail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'A12345678b'</initValue>
+      <name>Pass</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
